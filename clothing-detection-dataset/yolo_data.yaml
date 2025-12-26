@@ -1,6 +1,6 @@
 
-train: C:/Users/USER/OneDrive/Documents/AOL-Compvis/clothing-detection-dataset/split_dataset/train/images
-val: C:/Users/USER/OneDrive/Documents/AOL-Compvis/clothing-detection-dataset/split_dataset/val/images
+train: C:\Users\USER\OneDrive\Documents\AOL-Compvis\clothing-detection-dataset\split_dataset\train\images
+val: C:\Users\USER\OneDrive\Documents\AOL-Compvis\clothing-detection-dataset\split_dataset\val\images
 nc: 7
 names:
   0: crop_top
