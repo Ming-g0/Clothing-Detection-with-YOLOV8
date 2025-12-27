@@ -5,7 +5,7 @@ PYTHON = sys.executable
 
 cmd = f"""
 {PYTHON} yolov5/val.py \
---weights yolov5/runs/train/dressguard_yolov5s/weights/best.pt \
+--weights yolov5/runs/train/exp2/weights/best.pt \
 --data clothing-detection-dataset/yolo_data.yaml \
 --img 640
 """
